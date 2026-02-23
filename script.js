@@ -1,5 +1,5 @@
 // 【重要】ここにGASのウェブアプリURLを貼り付けてください
-const GAS_API_URL = "https://script.google.com/macros/s/AKfycbzxtEd0AAi3OZzGwVzTzGUnePCqxVowAKjef37-rrWOATZKVJdWXOZ2sU_Y5oq2Brn1/exec";
+const GAS_API_URL = "https://script.google.com/macros/s/AKfycbyU0LIvjLlKlqRMzSMX45hXTMiqt_yHry0AbKRxPGyky0QVJe2QBDrtOlIE__m7tXae/exec";
 // 【重要】GAS側の SECURITY_SALT と完全に一致させてください
 const SECURITY_SALT = "931810100081114514";
 
