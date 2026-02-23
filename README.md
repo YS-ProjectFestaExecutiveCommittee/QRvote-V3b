@@ -1,1 +1,0 @@
-# QRvote-V3b
